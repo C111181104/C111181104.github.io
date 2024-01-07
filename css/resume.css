@@ -54,7 +54,31 @@ li .this {
 }
 
 .page-main {
+    width: auto;
+    height: 360px;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: antiquewhite;
+}
+
+.page-main p {
+    font-size: 100px;
+    font-family: '標楷體', KaiTi, sans-serif;
+    font-weight: bold;
+}
+
+.page-main2 {
+    width: auto;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.page-main2 p {
+    font-size: 100px;
+    font-family: '標楷體', KaiTi, sans-serif;
+    font-weight: bold;
 }
